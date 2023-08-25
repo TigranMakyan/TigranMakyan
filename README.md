@@ -109,8 +109,8 @@ Here is my Arsenal Tools and Skills I use:
 <p> 
   <img alt="Onnx" src="https://img.shields.io/badge/Onnx-717272.svg?logo=Onnx&logoColor=white"></img>
   <img alt="Onnx-runtime" src="https://img.shields.io/badge/OnnxRuntime-717272.svg?logo=Onnx&logoColor=white"></img>
-  <img alt="Tensor-RT" width="9%" src="https://img.shields.io/badge/TENSORRT%20-%231572B6.svg?logo=css3&logoColor=white%22"></img>
-  <img alt="Triton" width="7%" src="https://img.shields.io/badge/TRITON%20-%231572B6.svg?logo=css3&logoColor=white%22"></img>
+  <img alt="Tensor-RT" src="https://img.shields.io/badge/Tensor_RT-717272.svg?logo=Onnx&logoColor=white&color=green"></img>
+  <img alt="Triton" src="https://img.shields.io/badge/Triton-717272.svg?logo=Onnx&logoColor=white&color=green"></img>
 </p>
 
 <h3 align="left">Experience on Edge devices</h3>
