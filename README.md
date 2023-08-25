@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/TigranMakyan"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Tigran;Nice+to+meet+you!" alt="Typing SVG" /></a>
 </p>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jgo38wEND0D8A/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </div>
 
 <div id="badges", align="center">
