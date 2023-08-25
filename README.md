@@ -32,6 +32,7 @@ On machine learning sides I use <a href="https://www.tensorflow.org">Tensorflow<
 </p>
 
 Here is my Arsenal Tools and Skills I use:
+---
 <h3 align="left">Programming</h3>
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></img>
