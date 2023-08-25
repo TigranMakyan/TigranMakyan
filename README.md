@@ -13,17 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!--
-<h1 align="center">Hi there👋 ! I am <a href="https://fedoraproject.org/wiki/User:thunderbirdtr" target="_blank">Onuralp</a>!</h1>
--->
 <p align="center">
-<a href="https://github.com/TigranMakyan"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Tigran;Nice+to+meet+you!" alt="Typing SVG" /></a>
+<a href="https://github.com/TigranMakyan"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Tigran;Nice+to+meet+you!" alt="Typing SVG" /></a>
 </p>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-</div>
-
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/tigranmakyan">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -32,7 +24,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-
+<br>
 <p align="left">
   Hello, I am Tigran. I am a Machine Learning Engineer and specialize in Computer Vision and Data Science fields. I am mostly using Python for my projects. I keep interest in Artificial Intellegence and 
 I am sure that sooner or later artificial intelligence will become an integral part of anyone's life. I mainly use deep learning tools in my projects, but I also want to note that I have no less skill and experience in using classical ML algorithms and, in particular, computer vision. 
