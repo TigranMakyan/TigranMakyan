@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   Hello, I am Tigran. I am a Machine Learning Engineer and specialize in Computer Vision and Data Science fields. I am mostly using Python for my projects. I keep interest in Artificial Intellegence and 
-I am sure that sooner or later artificial intelligence will become an integral part of anyoneюс life. I mainly use deep learning tools in my projects, but I also want to note that I have no less skill and experience in using classical ML algorithms and, in particular, computer vision. 
+I am sure that sooner or later artificial intelligence will become an integral part of anyone's life. I mainly use deep learning tools in my projects, but I also want to note that I have no less skill and experience in using classical ML algorithms and, in particular, computer vision. 
 On machine learning sides I use <a href="https://www.tensorflow.org">Tensorflow</a> which helps understand mediapipe and I am also using <a href="https://www.pytorch.org">PyTorch</a> for ML/DL/AI based on apps/products. I am also contributing various FLOSS and OSS projects around GitHub/Gitlab/Pagure and other platforms to make everyone and developers lives better.
 </p>
 
