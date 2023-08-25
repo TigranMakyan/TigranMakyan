@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges", align="center">
-  <a href="www.linkedin.com/in/tigranmakyan">
+  <a href="https://www.linkedin.com/in/tigranmakyan">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="www.t.me/Tigran_Makyan">
+  <a href="https://www.t.me/Tigran_Makyan">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
