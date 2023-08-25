@@ -92,7 +92,7 @@ Here is my Arsenal Tools and Skills I use:
 </p>
 <p>
   <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-v2-FE7A16.svg?logo=Tensorflow&logoColor=white"></img>
-  <img width="6%" alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"></img>
+  <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%231572B6.svg?logo=css3&logoColor=white&color=red"></img>
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white"></img>
   <img alt="PyTorch" src="https://img.shields.io/badge/TorchVision-EE4C2C.svg?logo=PyTorch&logoColor=white"></img>
   <img alt="PyTorch" src="https://img.shields.io/badge/TorchAudio-EE4C2C.svg?logo=PyTorch&logoColor=white"></img>
