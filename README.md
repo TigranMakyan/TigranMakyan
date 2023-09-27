@@ -31,7 +31,7 @@ I am sure that sooner or later artificial intelligence will become an integral p
 On machine learning sides I use <a href="https://www.tensorflow.org">Tensorflow</a> which helps understand mediapipe and I am also using <a href="https://www.pytorch.org">PyTorch</a> for ML/DL/AI based on apps/products. I am also contributing various FLOSS and OSS projects around GitHub and other platforms to make everyone and developers lives better.
 </p>
 
-Here is my Arsenal Tools and Skills I use:
+Below is my arsenal of skills and tools that I use:
 ---
 <h3 align="left">Programming</h3>
 <p>
