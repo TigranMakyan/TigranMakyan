@@ -90,7 +90,10 @@ Below is my arsenal of skills and tools that I use:
   <img alt="PyTorch" src="https://img.shields.io/badge/TorchVision-EE4C2C.svg?logo=PyTorch&logoColor=white"></img>
   <img alt="PyTorch" src="https://img.shields.io/badge/TorchAudio-EE4C2C.svg?logo=PyTorch&logoColor=white"></img>
 </p>
-
+<p>
+  <img width="7%" alt="Django" src="https://img.shields.io/badge/django-%23013243.svg?style=for-the-badge&logo=django&logoColor=white"></img>
+  <img width="10%" alt="DjangoREST" src="https://img.shields.io/badge/DjangoRest-%23013243.svg?style=for-the-badge&logo=django&logoColor=red"></img>
+</p>
 <h3 align="left">Libraries for visialization</h3>
 <p> 
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-2391E6.svg?logo=OpenCV&logoColor=white"></img>
